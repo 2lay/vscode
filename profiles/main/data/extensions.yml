@@ -1,0 +1,36 @@
+disabled: []
+enabled:
+  - id: antfu.iconify
+    uuid: 14933acc-ee13-48c1-9320-e39310c683b1
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: denoland.vscode-deno
+    uuid: 91881318-cfd0-4905-adb7-f4e431ca1ead
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: imgildev.vscode-nextjs-generator
+    uuid: fe0d197e-daee-4bf7-94b4-4415a6fc7ba7
+  - id: jock.svg
+    uuid: 4ae6dc82-7981-4f10-bd81-2d72aec37f39
+  - id: kamikillerto.vscode-colorize
+    uuid: 445ba381-f232-4150-9056-d790bd76d698
+  - id: lokalise.i18n-ally
+    uuid: 8ab81d13-c812-4a2f-8f19-c32e3655e53c
+  - id: oderwat.indent-rainbow
+    uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: Shan.code-settings-sync
+    uuid: e337c67b-55c2-4fef-8949-eb260e7fb7fd
+  - id: t3dotgg.vsc-material-theme-but-i-wont-sue-you
+    uuid: ce2f2bcc-8167-4a0c-b5ba-d72c51925ac0
+  - id: tal7aouy.theme
+    uuid: 1d57ed17-b4be-4755-9a69-073a6e6065bc
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
